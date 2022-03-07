@@ -23,7 +23,7 @@ class KamiBot extends chariot.Client {
                     '285707976356921344'
                 ],
                 excludeDirectories: [
-                    'none'
+                    'none', 'ehp'
                 ],
                 customLocales: {
                     missingPermissions: 'Command **{command}** requires following permissions: **{missingPermissions}**',
