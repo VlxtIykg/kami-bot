@@ -40,7 +40,7 @@ class KamiBot extends chariot.Client {
             {
                 messageLimit: 50,
                 defaultImageFormat: 'png'
-            }, uptime, startTime
+            }
             ));
         }
     }
